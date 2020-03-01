@@ -21,5 +21,8 @@ While the greedy shrinking/expansion with local search are classical algorithms,
 
 Specifically, the number of optical channels in the interferometer of the photonic quantum computer corresponds to the number of nodes in the graph. 
 
+The process looks a little something like this:
+<img src="https://github.com/lzylili/quantum-optimization/blob/master/maxclique/GBS.png" alt="GBS" width="400">
+
 ### About the graph
 I used sf.apps.data to get a pre-generated GBS dataset. Specifically, I used data.PHat(), which generates a random graph using the p-hat generator. 
