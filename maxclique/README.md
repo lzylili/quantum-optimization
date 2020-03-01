@@ -26,3 +26,7 @@ The process looks a little something like this:
 
 ### About the graph
 I used sf.apps.data to get a pre-generated GBS dataset. Specifically, I used data.PHat(), which generates a random graph using the p-hat generator. 
+
+The graphs (randomly generated graph and found cliques) are as follows:
+
+<img src ="https://github.com/lzylili/quantum-optimization/blob/master/maxclique/plotly-graphs.png" alt="Results" width="1000">
