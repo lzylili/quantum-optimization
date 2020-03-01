@@ -22,7 +22,7 @@ Specifically, the number of optical channels in the interferometer of the photon
 
 The process looks a little something like this:
 
-<img src="https://github.com/lzylili/quantum-optimization/blob/master/maxclique/GBS.png" alt="GBS" width="400">
+<img src="https://github.com/lzylili/quantum-optimization/blob/master/maxclique/GBS.png" alt="GBS" width="600">
 
 ### About the graph
 I used sf.apps.data to get a pre-generated GBS dataset. Specifically, I used data.PHat(), which generates a random graph using the p-hat generator. 
