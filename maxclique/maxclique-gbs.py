@@ -1,3 +1,5 @@
+--------------------------------------------------------------------
+
 # import packages
 from strawberryfields.apps import data, plot, sample, clique
 import numpy as np
@@ -52,3 +54,8 @@ print("Largest clique subgraph is = ", largest_clique)
 
 largest_fig = plot.graph(phat_graph, largest_clique)
 largest_fig.show()
+
+---------------------------------------------------------------------
+
+## Credits
+# This code is modified from Xanadu's Strawberry Fields apps package 
